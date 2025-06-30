@@ -54,7 +54,7 @@ const projects = [
     name: 'Dainsleif',
     description:
       'A futuristic dark-themed landing page built with Vue. Experimental design with smooth animations.',
-    link: 'https://lucky-wisp-9fd0ae.netlify.app/',
+    link: 'https://relaxed-axolotl-9932ff.netlify.app/',
     image: '/projects/dainsleif.png',
   },
 ]
